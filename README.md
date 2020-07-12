@@ -5,16 +5,16 @@ A genetic algorithm creates a group of individuals randomly from a given populat
 
 Example part of output for searched word "NickTheGreek":
 Generation: 5537
-String NicIheGreekB Fitness 83
-String NicIheGreekB Fitness 83
-String NicTheGieekB Fitness 83
-String NicIheGreekB Fitness 83
-String NicIheGreekA Fitness 83
-String NicTheGLeekB Fitness 83
-String NicIheGreekB Fitness 83
-String NicTheGivekB Fitness 75
-String NicIheGreCkB Fitness 75
-String NtrkheGreekB Fitness 75
+String NicIheGreekB Fitness 83<br/>
+String NicIheGreekB Fitness 83<br/>
+String NicTheGieekB Fitness 83<br/>
+String NicIheGreekB Fitness 83<br/>
+String NicIheGreekA Fitness 83<br/>
+String NicTheGLeekB Fitness 83<br/>
+String NicIheGreekB Fitness 83<br/>
+String NicTheGivekB Fitness 75<br/>
+String NicIheGreCkB Fitness 75<br/>
+String NtrkheGreekB Fitness 75<br/>
 String vicfheGreekB Fitness 75
 String NiwkheGreFkB Fitness 75
 String HirkheGreekB Fitness 75
